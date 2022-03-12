@@ -1,0 +1,16 @@
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Git\SDU\6. Semester\Softwarearkitektur\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

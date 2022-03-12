@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZTM5aLv1QFAyqcIt5vcHfLHV85CtI43ToiyJmiOLUqDzoC1hIHU3rrd4/HpaCDCW96+18zfoWLzlWeZayjTwQ==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\SDU\\6. Semester\\Softwarearkitektur\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
