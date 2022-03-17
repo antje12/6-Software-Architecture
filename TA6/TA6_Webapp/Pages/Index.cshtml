@@ -1,0 +1,58 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">TA6</h1>
+</div>
+
+<div class="align-left">
+    <br/>
+    <h3>Data received from the Weather API:</h3>
+    <br/>
+    <ul>
+        @{
+            if(Model.Forecasts != null)
+            {
+                foreach (var forecast in Model.Forecasts)
+                {
+                    <li>
+                        <h4>@forecast.Date.ToLongDateString()</h4>
+                        <p>Location: @forecast.City</p>
+                        <p>Temperature: @forecast.TemperatureC°C (@forecast.TemperatureF°F)</p>
+                        <p>Weather: @forecast.Summary</p>
+                    </li>
+                }
+            }
+        }
+    </ul>
+</div>
+
+<div class="align-left">
+    <br/>
+    <h3>Computed temperature statistics:</h3>
+    <br/>
+    @{
+        if (Model.Forecasts != null)
+        {
+            <ul>
+                <li>
+                    <p>Mean: @Model.mean°C</p>
+                </li>
+                <li>
+                    <p>Variance: @Model.variance</p>
+                </li>
+                <li>
+                    <p>Standard deviation: @Model.standardDeviation</p>
+                </li>
+            </ul>
+        }
+        else
+        {
+            <p>Error: Forecasts uninitialized.</p>
+        }
+    }
+    
+</div>

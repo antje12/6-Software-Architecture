@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DaWEpq/4wjpIb0+yyQJCSQP5WPGU411/9MUSYZi2LwgLnsBVk5QRII3YW+1iGWCigvG8C1zew5em0UCbU9nzdw==",
+  "dgSpecHash": "Z5uz6gwOShGgXJ6ehqBhqIHfwE9m1qaXxDGJRwIKWD02xkUq7FfusTgHIjcNNMphiVOKrBJ0OM06g9V/4niNAw==",
   "success": true,
-  "projectFilePath": "D:\\Git\\TA3\\TA3.csproj",
+  "projectFilePath": "D:\\Git\\6-Software-Architecture\\TA3\\TA3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",

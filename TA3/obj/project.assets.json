@@ -746,11 +746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\TA3\\TA3.csproj",
+      "projectUniqueName": "D:\\Git\\6-Software-Architecture\\TA3\\TA3.csproj",
       "projectName": "TA3",
-      "projectPath": "D:\\Git\\TA3\\TA3.csproj",
+      "projectPath": "D:\\Git\\6-Software-Architecture\\TA3\\TA3.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\TA3\\obj\\",
+      "outputPath": "D:\\Git\\6-Software-Architecture\\TA3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -816,7 +816,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
