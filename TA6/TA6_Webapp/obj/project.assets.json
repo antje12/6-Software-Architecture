@@ -5285,11 +5285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Downloads\\TA6\\TA6_Webapp\\TA6_Webapp.csproj",
+      "projectUniqueName": "D:\\Git\\6-Software-Architecture\\TA6\\TA6_Webapp\\TA6_Webapp.csproj",
       "projectName": "TA6_Webapp",
-      "projectPath": "C:\\Users\\Bruger\\Downloads\\TA6\\TA6_Webapp\\TA6_Webapp.csproj",
+      "projectPath": "D:\\Git\\6-Software-Architecture\\TA6\\TA6_Webapp\\TA6_Webapp.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Downloads\\TA6\\TA6_Webapp\\obj\\",
+      "outputPath": "D:\\Git\\6-Software-Architecture\\TA6\\TA6_Webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"

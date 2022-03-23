@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\TA4\\MyMemento\\MyMemento.csproj",
+      "projectUniqueName": "D:\\Git\\6-Software-Architecture\\TA4\\MyMemento\\MyMemento.csproj",
       "projectName": "MyMemento",
-      "projectPath": "D:\\Git\\TA4\\MyMemento\\MyMemento.csproj",
+      "projectPath": "D:\\Git\\6-Software-Architecture\\TA4\\MyMemento\\MyMemento.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\TA4\\MyMemento\\obj\\",
+      "outputPath": "D:\\Git\\6-Software-Architecture\\TA4\\MyMemento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

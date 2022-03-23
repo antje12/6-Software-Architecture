@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6395a5e6-ca50-4e3e-afa7-05b0a35e5221" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../TA2/.idea/.idea.TA2.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/.idea/.idea.TA2.dir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/bin/Debug/net6.0/TA2.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/TA2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/Debug/net6.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/TA2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/TA2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA2/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../TA2/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA3/obj/Debug/net6.0/TA3.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA3/obj/Debug/net6.0/TA3.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyMemento/obj/Debug/net6.0/MyMemento.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyMemento/obj/Debug/net6.0/MyMemento.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyMemento/obj/Debug/net6.0/MyMemento.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyMemento/obj/Debug/net6.0/MyMemento.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyMemento/obj/MyMemento.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyMemento/obj/MyMemento.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyMemento/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyMemento/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyMemento/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyMemento/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyMemento/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyMemento/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyMemento/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyMemento/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/Debug/net6.0/MyTodoWebApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/Debug/net6.0/MyTodoWebApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/Debug/net6.0/MyTodoWebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/Debug/net6.0/MyTodoWebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/Debug/net6.0/MyTodoWebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/Debug/net6.0/MyTodoWebApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/MyTodoWebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/MyTodoWebApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/MyTodoWebApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/MyTodoWebApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/MyTodoWebApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/MyTodoWebApi.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/MyTodoWebApi/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/Debug/net6.0/TA4RateLimiting.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/Debug/net6.0/TA4RateLimiting.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/Debug/net6.0/TA4RateLimiting.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/Debug/net6.0/TA4RateLimiting.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/Debug/net6.0/TA4RateLimiting.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/Debug/net6.0/TA4RateLimiting.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/TA4RateLimiting.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/TA4RateLimiting.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TA4/TA4RateLimiting/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26hGurdLCtqOrJU9o3QxUMo6t0X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1647868630024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647868630024</updated>
+      <workItem from="1647868634577" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

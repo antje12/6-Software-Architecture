@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Downloads\\TA6\\TA6_API\\TA6_API.csproj",
+      "projectUniqueName": "D:\\Git\\6-Software-Architecture\\TA6\\TA6_API\\TA6_API.csproj",
       "projectName": "TA6_API",
-      "projectPath": "C:\\Users\\Bruger\\Downloads\\TA6\\TA6_API\\TA6_API.csproj",
+      "projectPath": "D:\\Git\\6-Software-Architecture\\TA6\\TA6_API\\TA6_API.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Downloads\\TA6\\TA6_API\\obj\\",
+      "outputPath": "D:\\Git\\6-Software-Architecture\\TA6\\TA6_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"

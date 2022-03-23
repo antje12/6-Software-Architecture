@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj": {}
+    "D:\\Git\\6-Software-Architecture\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj": {}
   },
   "projects": {
-    "D:\\Git\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj": {
+    "D:\\Git\\6-Software-Architecture\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj",
+        "projectUniqueName": "D:\\Git\\6-Software-Architecture\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj",
         "projectName": "MyTodoWebApi",
-        "projectPath": "D:\\Git\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj",
+        "projectPath": "D:\\Git\\6-Software-Architecture\\TA4\\MyTodoWebApi\\MyTodoWebApi.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\TA4\\MyTodoWebApi\\obj\\",
+        "outputPath": "D:\\Git\\6-Software-Architecture\\TA4\\MyTodoWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

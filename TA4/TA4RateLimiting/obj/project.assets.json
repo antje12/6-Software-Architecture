@@ -438,11 +438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\TA4\\TA4RateLimiting\\TA4RateLimiting.csproj",
+      "projectUniqueName": "D:\\Git\\6-Software-Architecture\\TA4\\TA4RateLimiting\\TA4RateLimiting.csproj",
       "projectName": "TA4RateLimiting",
-      "projectPath": "D:\\Git\\TA4\\TA4RateLimiting\\TA4RateLimiting.csproj",
+      "projectPath": "D:\\Git\\6-Software-Architecture\\TA4\\TA4RateLimiting\\TA4RateLimiting.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\TA4\\TA4RateLimiting\\obj\\",
+      "outputPath": "D:\\Git\\6-Software-Architecture\\TA4\\TA4RateLimiting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -496,7 +496,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
