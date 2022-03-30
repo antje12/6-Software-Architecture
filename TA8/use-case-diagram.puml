@@ -1,0 +1,29 @@
+@startuml
+skinparam shadowing false
+left to right direction
+
+actor "User" as u
+rectangle ATM {
+  usecase "Withdraw money" as UC1
+  usecase "Deposit money" as UC2
+  usecase "Deposit coins" as UC21
+  usecase "Deposit bills" as UC22
+  usecase "Show your balance" as UC3
+  usecase "Pay giro forms" as UC4
+}
+actor "Bank" as b
+
+u --> UC1
+u --> UC2
+UC2 ..> UC21
+UC2 ..> UC22
+u --> UC3
+u --> UC4
+
+UC1 --> b
+UC21 --> b
+UC22 --> b
+UC3 --> b
+UC4 --> b
+
+@enduml

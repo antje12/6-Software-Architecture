@@ -1,0 +1,51 @@
+@startuml
+skinparam shadowing false
+
+actor User
+
+User -> "Client GUI": Withdraw money
+activate "Client GUI"
+
+"Client GUI" -> ATM: Withdraw money
+activate ATM
+
+ATM -> "Bank Server": Check balance
+activate "Bank Server"
+
+"Bank Server" -> Database: Get balance
+activate Database
+
+Database --> "Bank Server": balance
+deactivate Database
+
+"Bank Server" -> "Bank Server": Validate balance
+activate "Bank Server"
+
+alt valid balance
+
+  "Bank Server" -> Database: Change balance
+  activate Database
+
+  Database --> "Bank Server": new balance
+  deactivate Database
+
+  "Bank Server" --> ATM: Accept withdrawl
+
+  ATM --> "Client GUI": Accept withdrawl
+
+  "Client GUI" --> User: Money
+
+else invalid balance
+
+  "Bank Server" --> ATM: Reject withdrawl
+  deactivate "Bank Server"
+
+  ATM --> "Client GUI": Reject withdrawl
+  deactivate ATM
+
+  "Client GUI" --> User: Rejection
+  deactivate "Client GUI"
+
+end
+
+@enduml

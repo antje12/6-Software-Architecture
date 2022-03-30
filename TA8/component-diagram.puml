@@ -1,0 +1,25 @@
+@startuml
+skinparam shadowing false
+
+[Client GUI] as g
+[ATM] as a
+
+cloud {
+  [Bank Server] as b
+}
+
+() "API" as atm_api
+atm_api - a
+
+() "API" as bank_api
+bank_api - b
+
+database "Sql" {
+  [Account Data] as cd
+}
+
+g ..> atm_api : user input
+a ..> bank_api : balance manipulation
+b ..> cd : store balance
+
+@enduml
