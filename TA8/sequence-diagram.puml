@@ -15,7 +15,7 @@ activate "Bank Server"
 "Bank Server" -> Database: Get balance
 activate Database
 
-Database --> "Bank Server": balance
+"Bank Server" <-- Database: balance
 deactivate Database
 
 "Bank Server" -> "Bank Server": Validate balance
@@ -26,24 +26,24 @@ alt valid balance
   "Bank Server" -> Database: Change balance
   activate Database
 
-  Database --> "Bank Server": new balance
+  "Bank Server" <-- Database: new balance
   deactivate Database
 
-  "Bank Server" --> ATM: Accept withdrawl
+  ATM <-- "Bank Server": Accept withdrawl
 
-  ATM --> "Client GUI": Accept withdrawl
+  "Client GUI" <-- ATM: Accept withdrawl
 
-  "Client GUI" --> User: Money
+  User <-- "Client GUI": Money
 
 else invalid balance
 
-  "Bank Server" --> ATM: Reject withdrawl
+  ATM <-- "Bank Server": Reject withdrawl
   deactivate "Bank Server"
 
-  ATM --> "Client GUI": Reject withdrawl
+  "Client GUI" <-- ATM: Reject withdrawl
   deactivate ATM
 
-  "Client GUI" --> User: Rejection
+  User <-- "Client GUI": Rejection
   deactivate "Client GUI"
 
 end
